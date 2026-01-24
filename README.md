@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoyebAhmed5&show_icons=true&locale=en" alt="SoyebAhmed5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoyebAhmed5&" alt="SoyebAhmed5" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=soyebahmed5&theme=dark&hide_border=false)
